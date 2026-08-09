@@ -1,0 +1,6 @@
+{
+  "name": "Kria Studio",
+  "description": "SaaS platform for tourist photo magnetic frame businesses with instant QR upload, customizable templates, interactive mobile editor, Razorpay checkout, and admin print console.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
